@@ -157,3 +157,8 @@ a:focus {
 .slick-dots li.slick-active button:before {
 	color: white;
 }
+
+#try-me {
+	text-align: center;
+	margin-top: 50px;
+}
