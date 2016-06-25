@@ -141,11 +141,10 @@ a:focus {
 /* Project styles */
 
 .img {
-	margin-left: 169px;
-	/*padding: 0;*/
-
-	height: 69%;
-	width: 69%;
+	margin-top: 25px;
+	margin-left: 275px;
+	height: 50%;
+	width: 50%;
 	border: solid silver 10px;
 }
 
