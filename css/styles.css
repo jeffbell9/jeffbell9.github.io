@@ -23,7 +23,7 @@ html, body {
     top: 0;
     bottom: 0;
     border: solid gray 15px;
-    padding-top: 150px;
+    padding-top: 125px;
 }
 
 #aboutContainer {
@@ -33,7 +33,7 @@ html, body {
     top: 0;
     bottom: 0;
     border: solid gray 15px;
-    padding-top: 100px;
+    padding-top: 50px;
 }
 
 #projectContainer {
@@ -71,7 +71,7 @@ html, body {
 
 #about-nav {
 	text-align: center;
-	margin-top: 100px;
+	margin-top: 75px;
 	font-size: 1.25em;
 	margin-left: 30px;
 }
@@ -128,11 +128,9 @@ a:focus {
 
 #about-name,
 #closing-tag {
-	/*margin-left: 350px;*/
 }
 
 .info-item {
-	/*margin-left: 450px;*/
 	margin-top: 10px;
 }
 
@@ -160,4 +158,13 @@ a:focus {
 #please-visit {
 	margin-top: 35px;
 	color: silver;
+}
+
+@media (max-width: 500px) {
+	#container,
+	#aboutContainer,
+	#projectContainer {
+    	border: none;
+    	overflow: auto;
+    }
 }
