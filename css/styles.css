@@ -98,10 +98,14 @@ a:focus {
 }
 
 #nav a,
-#projects-nav a,
 #about-nav a {
 	display: inline-block;
 	margin-right: 25px;
+}
+
+#projects-nav a {
+	display: inline-block;
+	margin-left: 15px;
 }
 
 /*Contact styles */
@@ -175,7 +179,11 @@ a:focus {
 
     #nav,
     #about-nav {
-    	margin-top: 35px;
+    	margin-top: 45px;
+    }
+
+    #nav {
+    	margin-bottom: 0;
     }
 }
 
