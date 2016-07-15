@@ -172,6 +172,11 @@ a:focus {
     #aboutContainer {
     	padding-top: 10px;
     }
+
+    #nav,
+    #about-nav {
+    	margin-top: 35px;
+    }
 }
 
 @media (min-width: 1200px) {
