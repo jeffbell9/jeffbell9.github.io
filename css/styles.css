@@ -168,8 +168,9 @@ a:focus {
     	overflow: auto;
     }
 
-    #container {
-    	padding-top: 50px;
+    #container,
+    #aboutContainer {
+    	padding-top: 10px;
     }
 }
 
