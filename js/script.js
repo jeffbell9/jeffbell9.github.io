@@ -1,9 +1,11 @@
 $("#contact").click(function() {
 	$("#contactInfo").fadeIn("slow");
+	window.location.href = '#aboutContactInfo';
 });
 
 $("#aboutContact").click(function() {
 	$("#aboutContactInfo").fadeIn("slow");
+	window.location.href = '#aboutContactInfo';
 });
 
 $('.autoplay').slick({

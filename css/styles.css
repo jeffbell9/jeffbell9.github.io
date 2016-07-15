@@ -167,4 +167,14 @@ a:focus {
     	border: none;
     	overflow: auto;
     }
+
+    #container {
+    	padding-top: 50px;
+    }
+}
+
+@media (min-width: 1200px) {
+	.img {
+		width: 700px;
+	}
 }
