@@ -191,6 +191,14 @@ a:focus {
 	z-index: -100;
 }
 
+.triangle-div {
+	position: absolute;
+	top: 58%;
+	left: 50%;
+	z-index: -100;
+
+}
+
 /* Project styles */
 
 .img {
