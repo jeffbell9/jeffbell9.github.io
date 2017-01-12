@@ -1,3 +1,3 @@
 ######My portfolio website
 
-[Check it out!](https://rawgit.com/jeffbell9/Website/master/index.html) 
+[Check it out!](https://jeffbell9.github.io) 
