@@ -44,7 +44,7 @@ html, body {
     top: 0;
     bottom: 0;
     border: solid gray 15px;
-    padding-top: 15px;
+	padding-top: 15px;
 }
 
 /* Home styles */
@@ -207,6 +207,10 @@ a:focus {
 	margin: 0 auto;
 	width: 60%;
 	border: solid silver 10px;
+}
+
+.slick-dots li:last-child {
+	margin-right: 30px;
 }
 
 .slick-dots li button::before {
