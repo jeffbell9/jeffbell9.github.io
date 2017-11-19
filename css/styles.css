@@ -202,6 +202,10 @@ a:focus {
 
 /* Project styles */
 
+.autoplay {
+	visibility: hidden;
+}
+
 .img {
 	/*margin: 35px auto 0;*/
 	margin: 0 auto;
